@@ -94,7 +94,7 @@ a {
 
 @media (max-width: 768px) {
   .home_container {
-    height: 400px;
+    height: 500px;
     width: 300px;
   }
   .contact {
