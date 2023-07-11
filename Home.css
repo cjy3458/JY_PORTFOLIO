@@ -8,6 +8,7 @@ body {
   align-items: center;
   justify-content: center;
   background: url("CountingStars.jpg");
+
   /* background-color: black; */
   align-content: center;
   margin: 0;
@@ -20,9 +21,9 @@ body {
   grid-template-columns: 1fr 1fr; /*1fr, 1fr, 1fr 쉼표 넣으면 기능이 안먹어요.*/
   grid-template-rows: 1fr 1fr 1fr;
   /* background-color: black; */
-  width: 100vw;
-  height: 100vh;
-  /* gap: 0px; */
+  width: 95vw;
+  height: 95vh;
+  /* gap: 0px */
 }
 
 .item {
