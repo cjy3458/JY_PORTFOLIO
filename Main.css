@@ -67,6 +67,13 @@ p {
 }
 
 @media screen and (max-width: 768px) {
+  .container {
+    text-align: center;
+    align-items: center;
+    width: 60vh;
+    margin-right: 2%;
+  }
+
   .title {
     font-size: 230%;
     color: whitesmoke;
